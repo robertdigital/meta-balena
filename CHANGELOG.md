@@ -1,6 +1,11 @@
 Change log
 -----------
 
+# v2.39.1
+## (2020-01-17)
+
+* initramfs-module-prepare: disable also when shell-debug is set [Bumsik Kim]
+
 # v2.39.0
 ## (2019-07-31)
 
